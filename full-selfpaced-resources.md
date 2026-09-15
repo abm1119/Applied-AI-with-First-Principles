@@ -4,6 +4,7 @@
 [Learn Python – Interactive Course 2026 by FCC](https://www.youtube.com/watch?v=kLZgQWjnUz0)
 
 ---
+
 ### FASTAPI:
 [Python API Development - Comprehensive Course for Beginners by FFC](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 [FAST API - Playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ)
@@ -12,6 +13,7 @@
 [FASTAPI for AI Engineers](https://www.youtube.com/watch?v=IcM2w2VKdbA)
 
 ---
+
 ### SQL and Database: 
 [SQL - Complete Learn SQL Beginner to Advanced in Under 4 Hours ](https://www.youtube.com/watch?v=OT1RErkfLNQ)
 [SQL Tutorials](https://www.thoughtspot.com/sql-tutorial)
@@ -29,6 +31,7 @@
 
 
 ---
+
 ### UI Development 
 
 #### - Gradio Interface 
@@ -46,6 +49,7 @@
 
 => **Tip here:** - Use the Lovable.dev or similar to build a Biloperate site or UI ...  Also Use Streamlit UI Skills
 ---
+
 ### Claude Code, Cursor or Vibe coding or Agentic AI Development 
 
 [Olly Rosewell - Sessions](https://www.youtube.com/@OBRosewell/videos)
@@ -60,6 +64,7 @@
 
 
 ---
+
 ### Intro to LLMs and Prompt Engineering
 [Large Language Models (LLMs) - Shaw Talebi](https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0)
 [LLMs From Scratch - Book](https://sebastianraschka.com/llms-from-scratch/)
@@ -71,6 +76,7 @@
 [Advanced Resource: Building GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 [Resource - LLM Leaderboard](https://arena.ai/leaderboard)
 [Advanced Resource: LLM Foundations](https://karpathy.ai/zero-to-hero.html)
+
 --- Some Resourses here 
 [Github Repo - Large Language Models from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 [AI Engineeering from Scratch](https://aiengineeringfromscratch.com/)
@@ -80,4 +86,64 @@
 => **Tip here:** *Calculate the Cost of the Model per Token - input/Output Use LLM Cost calculator*
 
 ---
+
 ### Tool Calling and MCP 
+
+[Introduction to function calling - Google](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tools/function-calling)
+[Tool Calling, Explained: How AI Agents Decide What to Do Next](https://towardsdatascience.com/tool-calling-explained-how-ai-agents-decide-what-to-do-next/)
+[Anthropic - advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)   -- **Programmatic Tool Calling** 
+[End to End MCP Tutorial by FCC](https://www.youtube.com/watch?v=DosHnyq78xY&)
+[Ultimate MCP Tutorial | Learn Model Context Protocol and Deploy your MCP Server](https://www.youtube.com/watch?v=DAuZuj0BUZA)
+[MCP Into and Understand AO](https://www.youtube.com/watch?v=Ek8JHgZtmcI&t=48s)
+[MCP Agentic AI Crash Course With Python](https://www.youtube.com/watch?v=MDBG2MOp4Go)
+[MCP Crash Course: What Python Developers Need to Know](https://youtu.be/5xqFjh56AwM?si=7fOsrt_lc0r_ejhO)
+---
+
+### RAG(Retrival Augment and Generation) from first Principle
+
+[Deep Dive](https://towardsdatascience.com/retrieval-augmented-generation-rag-an-introduction/)
+[Build a Simple RAG Pipeline in 30 Minutes!](https://www.youtube.com/watch?v=gcqp3Fbv4_o)
+[Is RAG Dead in 2026? | Build Local RAG from First Principles](https://www.youtube.com/watch?v=jdknLDkBS3k)
+[Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://www.youtube.com/watch?v=sVcwVQRHIc8)
+[Improve RAG With Simple API](https://youtu.be/VX1yG3X3pY4?si=TrEgz5Mq6o1rDIKi) | [Hybrid Search ](https://youtu.be/TbtBhbLh0cc?si=Q0etmmmI1sqR5qgJ) | [Pgai Vector Embeddigns](https://youtu.be/8oTnUtFYAes?si=fV3PNuSG-psaVZnM)
+[RAG by Cohere](https://docs.cohere.com/docs/retrieval-augmented-generation-rag)
+[RAG Cookbooks - github](https://github.com/athina-ai/rag-cookbooks)
+[Practical RAG Use Case](https://www.youtube.com/watch?v=jqd6_bbjhS8&t=6s)
+
+----
+
+### Advanced RAG --- Agentic RAG and Memory ... 
+[How to Get Your Data Ready for AI Agents (Docs, PDFs, Websites)](https://www.youtube.com/watch?v=9lBTS5dM27c&t=36s)
+[Building Agentic RAG From Scratch in Pure Python](https://www.youtube.com/watch?v=RxwjoegpI98&t=1s)
+
+[production-grade RAG system using industry best practices - Jamwithai](https://github.com/jamwithai/production-agentic-rag-course)
+[Beyond Naive RAG: Advanced Techniques for Building Smarter and Reliable AI Systems](https://towardsdatascience.com/beyond-naive-rag-advanced-techniques-for-building-smarter-and-reliable-ai-systems-c4fbcf8718b8/)
+[Advanced RAG Techniques: an Illustrated Overview](https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
+
+[Ragas](https://www.ragas.io/)
+[PageIndex](https://pageindex.ai/)
+[neo4j](https://neo4j.com/)
+[LLM Wiki by Andrej Kharpathy]()
+[DeepEval](https://github.com/confident-ai/deepeval)
+
+[Jamwithai](https://www.youtube.com/@jamwithai)   -- go through this
+[Reverse Engineered Claude's Memory System](https://manthanguptaa.in/posts/claude_memory/)
+[Reverse Engineered ChatGPT's Memory System](https://manthanguptaa.in/posts/chatgpt_memory/)
+[Towards Human like Memory for AI Agents](https://manthanguptaa.in/posts/towards_human_like_memory_for_ai_agents/)
+[Practical Guide to Memory](https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/)
+
+---
+### Agentic AI and Multi-Agentic System 
+
+
+
+
+
+
+
+
+
+
+
+
+### Finetunning LLMs/SLMs and Others Like Responsible AI, RLM , Harness and Advanced ... 
