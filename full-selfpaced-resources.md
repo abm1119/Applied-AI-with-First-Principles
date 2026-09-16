@@ -48,6 +48,8 @@
 [Full Stack APP tutorial](https://www.youtube.com/watch?v=sT3WSkMyCXA)
 
 => **Tip here:** - Use the Lovable.dev or similar to build a Biloperate site or UI ...  Also Use Streamlit UI Skills
+
+[Lovable.dev tutorial](https://youtu.be/qxygwvBoBTc?si=ZpH-h2U4J4WlNEOS)
 ---
 
 ### Claude Code, Cursor or Vibe coding or Agentic AI Development 
@@ -134,14 +136,21 @@
 
 ---
 ### Agentic AI and Multi-Agentic System 
+[Agentic AI CC by Codebasics](https://youtu.be/D74el9mvNak?si=RGp6rNgbH806PZ6g)
+
+[DaveEbbelar](https://youtu.be/T1Lowy1mnEg?si=Jn94DwJPAglLgPDk) | [SelfLearning AI Agents](https://youtu.be/ynhl8KjjS3Y?si=6xMlP_C1zuXC7NkD) | [Build Effective AI Agents](https://youtu.be/tx5OapbK-8A?si=umEZP1Yq9vh49JFU) | [Build Agent with Pydantic](https://youtu.be/zcYtSckecD8?si=O6nnVRZEa0aXHSSZ)
+
+[AI Agent in Pure Python](https://youtu.be/bZzyPscbtI8?si=wufStmFuM8lwNwFA)
+[AI Agent Actually Work in Python](https://youtu.be/Q3Gb7Rjre3U?si=jGrOMs6myAfaVO5V)
+
+[Agetic AI System Design and Overview](https://youtu.be/ZIAzZtKWmbI?si=EcrvExwbRPOStGPP)
 
 
 
 
-
-
-
-
+## Evals and Guadrails 
+[LLM Evals](https://youtu.be/a3SMraZWNNs?si=vOaJ6DHLTUEC0PwB)
+[AI Agents Guadrails Simplified](https://youtu.be/9Ek2cvIHq1c?si=lLb8ZTM5OKyKv-qw)
 
 
 
