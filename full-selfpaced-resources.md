@@ -145,14 +145,20 @@
 
 [Agetic AI System Design and Overview](https://youtu.be/ZIAzZtKWmbI?si=EcrvExwbRPOStGPP)
 
+[The Engineering System for AI Agents](https://youtu.be/Vok_nReMFaU?si=e7CZ53nxUBLGScwG)
 
-
+[Standford : CS329A Self-Improving AI Agents](https://www.youtube.com/playlist?list=PLangBM27OtEA)
 
 ## Evals and Guadrails 
+
 [LLM Evals](https://youtu.be/a3SMraZWNNs?si=vOaJ6DHLTUEC0PwB)
 [AI Agents Guadrails Simplified](https://youtu.be/9Ek2cvIHq1c?si=lLb8ZTM5OKyKv-qw)
-
+[You're Not AI-Fluent Until You Understand Evals](https://www.youtube.com/watch?v=zLeG-XJtbIE)
+[Post-training Agents](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvQZm-kVlz4wY1vWF0LBcf5)
 
 
 
 ### Finetunning LLMs/SLMs and Others Like Responsible AI, RLM , Harness and Advanced ... 
+
+
+
