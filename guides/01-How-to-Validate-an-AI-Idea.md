@@ -158,3 +158,7 @@ At the end you should have:
 
 **Rule:**  
 No significant engineering effort until the idea has passed at least Layers 1–4.
+
+**Tips**
+- When you make your Landing Page, Just post on Social media ... and wait for the feedback.
+- Use the `prd-validation-coach.skill` to Validate and Market the idea! 

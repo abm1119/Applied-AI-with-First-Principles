@@ -14,7 +14,7 @@ These are battle-tested rules. Follow them strictly.
 
 - Learning block = one main concept + one hands-on task.
 - Research block = one paper/article + notes.
-- If you feel the urge to jump topics, write the idea in `content-ideas.md` and stay on the current task.
+- If you feel the urge to jump topics, write the idea in `Content-Ideas.md` and stay on the current task.
 
 ## 3. Output Mandatory Rule
 
@@ -34,7 +34,7 @@ No output = the day did not count.
 ## 5. Missed Day Protocol
 
 1. Do not try to “catch up” by doing two days in one.
-2. Mark the missed day in `05-PROGRESS.md`.
+2. Mark the missed day in `.\Notes\PROGRESS.md`.
 3. Continue with the next scheduled day.
 4. If you miss 3+ days in a week → do a short Sunday recovery plan (max 3 hours).
 
@@ -49,7 +49,7 @@ This is the highest-leverage activity in the entire system.
 
 ## 7. Content Capture Discipline
 
-- Keep `content-ideas.md` open during both learning and research blocks.
+- Keep `Content-Ideas.md` open during both learning and research blocks.
 - Any time you think “this would make a good post” → drop one line immediately.
 - At 8:45 PM you only write. You do not invent ideas from scratch.
 
@@ -58,7 +58,7 @@ This is the highest-leverage activity in the entire system.
 | When | Duration | Action |
 |------|----------|--------|
 | End of every learning block | 5 min | Write tomorrow’s one-sentence goal |
-| Friday night | 15 min | Update `05-PROGRESS.md` |
+| Friday night | 15 min | Update `.\Notes\PROGRESS.md` |
 | Sunday night | 20–25 min | Full weekly review + adjust next week |
 
 ## 9. Quality Over Speed
