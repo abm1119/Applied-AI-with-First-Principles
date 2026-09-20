@@ -48,6 +48,7 @@ From 11:30 to 2:00 pm ... practical work or Research ...
 * Research papers Deep dive or Daily digest 
 * Github Repos Worth trying and Saving -- Open Source Deep dive 
 * How you can make your own Synthtic Dataset Using AI (Tinyfish, Antigravity, Codanics Workflows.)
+* Some Carrier ideas like (Cognitive computing, origami computing, Neumorphic Computing , others, etc)
 
 ## Applied AI Carricullum 
 - you can added Books -- recent and accurate, Add reseach papers, whitepapers and Frontier labs Guides and all good and curated hidden repos and bloggers, etc. 

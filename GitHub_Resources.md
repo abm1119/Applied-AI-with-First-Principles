@@ -44,6 +44,8 @@
 - [The Complete 5-Day - AI Agents Crash Course](https://github.com/itallstartedwithaidea/ai-agents-crash-course)
 - [Agentic Engineering by NirDiamant](https://github.com/NirDiamant/Agentic_Engineering)
 - [500+ AI Agent Projects & Use Cases](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+- [AI Agents From Scratch](https://github.com/pguso/ai-agents-from-scratch)
+- [30 Agents Every AI Engineer Must Build - Packt Book](https://github.com/PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build)
 
 ---
 

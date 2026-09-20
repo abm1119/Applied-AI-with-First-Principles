@@ -3,6 +3,8 @@
 
 ---
 
+[MATH CS AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+
 ## Phase 0 – Setup & Mindset
 
 - Use Cursor or Claude Code from day one.
@@ -98,6 +100,7 @@
 - [Github Repo - Large Language Models from Scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/)
 - [Official Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [AI Engineering 101 - Saurav Prateek](https://github.com/SauravP97/AI-Engineering-101)
 - [Dair AI - Prompt-Engineering-Guide -- repo](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 **Tip:** Calculate the Cost of the Model per Token - input/Output. Use LLM Cost calculator.
@@ -129,6 +132,7 @@
 - [RAG by Cohere](https://docs.cohere.com/docs/retrieval-augmented-generation-rag)
 - [RAG Cookbooks - github](https://github.com/athina-ai/rag-cookbooks)
 - [Practical RAG Use Case](https://www.youtube.com/watch?v=jqd6_bbjhS8&t=6s)
+- [From RAG Prototype to Production: Why We Wrote “Hands-On RAG for Production”](https://www.vectara.com/blog/from-rag-prototype-to-production-why-we-wrote-hands-on-rag-for-production)
 
 ---
 
@@ -175,6 +179,15 @@
 - [React paper](https://arxiv.org/pdf/2210.03629)
 - [A practical guide to building agents - OpenAI](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
 - [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+- [Bash Computer Use Agent with NVIDIA Nemotron](https://developer.nvidia.com/blog/create-your-own-bash-computer-use-agent-with-nvidia-nemotron-in-one-hour/)
+
+**Repo**
+- [Hands-on workshop: Build a multi-agent AI system from scratch - AIE](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop)
+- [Agents in Action](https://github.com/traversaal-ai/agents-in-action)
+- [AI Agents From Scratch](https://github.com/pguso/ai-agents-from-scratch)
+**Resources** 
+- [ml-intern](https://huggingface.co/spaces/smolagents/ml-intern)
+- [smolagents - huggingface](https://huggingface.co/docs/smolagents/en/index)
 
 ---
 
